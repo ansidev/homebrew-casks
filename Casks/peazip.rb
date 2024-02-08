@@ -14,7 +14,7 @@ cask "peazip" do
   homepage "https://peazip.github.io/"
 
   livecheck do
-    url :homepage
+    url "https://github.com/peazip/PeaZip"
     regex(/v?(\d+(?:[.-]\d+)+)/i)
     strategy :github_latest
   end
