@@ -3,14 +3,19 @@
 ## Install
 
 ```sh
-brew install --cask ansidev/casks/peazip
+brew install --cask ansidev/casks/{cask}
 ```
 
 Or
 
 ```sh
-brew tap ansidev/casks && brew install --cask peazip
+brew tap ansidev/casks && brew install --cask {cask}
 ```
+
+## Available Casks
+
+- mac-updater.
+- peazip.
 
 ## Documentation
 
