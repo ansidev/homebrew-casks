@@ -16,6 +16,7 @@ brew tap ansidev/casks && brew install --cask {cask}
 
 - mac-updater.
 - peazip.
+- simplenote.
 
 ## Documentation
 
